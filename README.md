@@ -7,5 +7,5 @@ INSIGHTS:
 
 Afghanistan recorded the lowest death percentage
 
-Andora had the highest number of Death percentage
+Andora had the highest number of Infection per population
 
